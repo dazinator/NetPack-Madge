@@ -1,0 +1,1 @@
+{"version":3,"file":"madgehost.js","sourceRoot":"","sources":["../src/madgehost.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,+BAAgC;AAWhC,MAAqB,SAAS;IAEb,eAAe,CAAC,OAAqB;;YAE/C,IAAI,MAAM,GAAG,MAAM,KAAK,CAAC,OAAO,CAAC,CAAC,IAAI,CAAC,CAAC,GAAG,EAAE,EAAE;gBAC1C,OAAO,GAAG,CAAC;YACf,CAAC,CAAC,CAAC;YAEN,kBAAkB;YACjB,OAAO,MAAM,CAAC;QAChB,CAAC;KAAA;CACJ;AAXD,4BAWC"}
