@@ -6,7 +6,10 @@
   "main": "dist/madgehost.js",
   "dependencies": {
     "@types/npm": "^2.0.29",
-    "madge": "^3.3.0"
+    "madge": "^3.3.0",
+    "memfs": "2.14.1",
+    "unionfs": "^3.0.2",
+    "precinct": ""
   },
   "devDependencies": {
     "chai": "^4.2.0",
