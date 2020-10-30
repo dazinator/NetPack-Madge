@@ -12,7 +12,7 @@
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "typescript": "^3.1.1",
-    "@types/mocha": "^5.2.5"
+    "@types/mocha": "^8.0.3"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha dist/test",
